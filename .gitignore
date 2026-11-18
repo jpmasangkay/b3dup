@@ -1,0 +1,12 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# Benchmark dataset and generated JSON reports
+/test_data/
+report.json
+
+# OS / Editor metadata
+.DS_Store
+.idea/
+.vscode/
